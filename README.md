@@ -59,7 +59,7 @@
    - Calculate and visualize the probability of the predicted class.
   
 
-Flask (app.py) 
+## Flask (app.py) 
 1. Flask Setup 
 
    - Import required modules and load the trained Keras model. 
