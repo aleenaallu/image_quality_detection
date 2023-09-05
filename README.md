@@ -1,6 +1,6 @@
 # image_quality_detection
 
-Data Analysis, Model Training, and Evaluation 
+##Data Analysis, Model Training, and Evaluation 
 
 1. Data Preparation and Augmentation 
 
